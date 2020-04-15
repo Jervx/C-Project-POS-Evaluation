@@ -1,0 +1,2 @@
+**Dummy text lang to, di kasi tumatanggap github ng empty folder**
+Receipts Will be stored int this path
