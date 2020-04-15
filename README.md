@@ -49,7 +49,7 @@ Follow The Format Bellow. (Thank You Talaga Sir/Maam for your Feedback)
 * Functionality
 * Accuracy
 ```
-### Suggestion about our application( need po namin ng suggestion nyo for us & future student na gagawa din ng POS )
+### Suggestion about our application( need po namin ng suggestion nyo for us & future 1st Year student kagaya namin na gagawa din ng POS )
    ________________________________
    ________________________________
    
