@@ -1,0 +1,11 @@
+Database_Folder/Account.json
+Database_Folder/Products.json
+Database_Folder/Reports.json
+Database_Folder/Receipts
+"TAX":"0.12"
+"PWD_Senior_Discount":"0.05"
+"transaction_no":"1006"
+"store_address":"1st Esperanza St., Hilltop Mansion Heights Lagro Subdivision, Quezon City"
+"store_name":"Hey Store Wala"
+"receipt_msg":"Have A Great Day!"
+"currency":"php"

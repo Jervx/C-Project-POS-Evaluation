@@ -1,0 +1,361 @@
+    {
+        "Product_Code":"CD1001",
+        "Product_Name":"555 Tuna Caldereta Flavor",
+        "Product_Price":"25",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"
+    },
+    {
+        "Product_Code":"CD1002",
+        "Product_Name":"Argentina Corned Beef",
+        "Product_Price":"34",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"175g"
+    },
+    {
+        "Product_Code":"CD1003",
+        "Product_Name":"Century Tuna Flakes Hot and Spicy",
+        "Product_Price":"29",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"
+    },
+    {
+        "Product_Code":"CD1004",
+        "Product_Name":"Century Tuna Flakes Vegetable Oil",
+        "Product_Price":"29",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"    
+    },
+    {
+        "Product_Code":"CD1005",
+        "Product_Name":"Saba Pink Salmon in Natural Oil",
+        "Product_Price":"48",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"  
+    },
+	{
+        "Product_Code":"CD1006",
+        "Product_Name":"555 Fried Sardines with Tausi",
+        "Product_Price":"32",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"
+    },
+    {
+        "Product_Code":"CD1007",
+        "Product_Name":"555 Fried Sardines Hot and Spicy",
+        "Product_Price":"31",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"    
+    },
+	{
+        "Product_Code":"CD1008",
+        "Product_Name":"Century Tuna Solid in Vegetable Oil",
+        "Product_Price":"73",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"184g"
+    },
+    {
+        "Product_Code":"CD1009",
+        "Product_Name":"Century Tuna Chunks in Water",
+        "Product_Price":"64",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"184g"    
+    },
+    {
+        "Product_Code":"CD1010",
+        "Product_Name":"555 Tuna Mechado",
+        "Product_Price":"25",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"
+    },
+    {
+        "Product_Code":"CD1011",
+        "Product_Name":"Saba Squid in Soy Sauce with Chili",
+        "Product_Price":"40.25",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"  
+    },
+    {
+        "Product_Code":"CD1012",
+        "Product_Name":"Saba Squid in Soy Sauce",
+        "Product_Price":"40.25",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"  
+    },
+    {
+        "Product_Code":"CD1013",
+        "Product_Name":"Family Sardines in Tomato Sauce",
+        "Product_Price":"18.25",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"  
+    },
+    {
+        "Product_Code":"CD1014",
+        "Product_Name":"Mega Sardines Spanish Style",
+        "Product_Price":"30.75",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"155g"  
+    },
+    {
+        "Product_Code":"CD1015",
+        "Product_Name":"San Marino Corned Tuna",
+        "Product_Price":"37.50",
+	"Stock":"100",
+        "Product_Type":"Canned Goods",
+        "Product_Details":"180g"  
+    },
+    {
+        "Product_Code":"CD1016",
+        "Product_Name":"Hersheys Milk Chocolate",
+        "Product_Price":"53",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"43g"
+    },
+    {
+        "Product_Code":"CD1017",
+        "Product_Name":"Hersheys Cookies N Cream Chocolate",
+        "Product_Price":"53",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"40g"    
+    },
+	{
+        "Product_Code":"CD1018",
+        "Product_Name":"Hersheys Dark Chocolate",
+        "Product_Price":"53",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"40g"
+    },
+    {
+        "Product_Code":"CD1019",
+        "Product_Name":"Meiji Yan Yan Chocolate",
+        "Product_Price":"37",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"50g"    
+    },
+	{
+        "Product_Code":"CD1020",
+        "Product_Name":"Fibisco Chocolate Mallows",
+        "Product_Price":"37",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"100g"
+    },
+    {
+        "Product_Code":"CD1021",
+        "Product_Name":"Nips White Chocolate Candy",
+        "Product_Price":"13",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"40g"
+    },
+    {
+        "Product_Code":"CD1022",
+        "Product_Name":"Richoco Chocolate Wafer",
+        "Product_Price":"42",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"50g"
+    },
+    {
+        "Product_Code":"CD1023",
+        "Product_Name":"Fibisco Chocolate Crunchies",
+        "Product_Price":"22",
+	"Stock":"100",
+        "Product_Type":"Chocolate",
+        "Product_Details":"60g"
+    },
+    {
+        "Product_Code":"CD1024",
+        "Product_Name":"Goya Chocolate Raisin & Nut",
+        "Product_Price":"20",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"38g"    
+    },
+    {
+        "Product_Code":"CD1025",
+        "Product_Name":"Goya Chocolate Coins",
+        "Product_Price":"182",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"Big Pack 500g"  
+    },
+
+    {
+        "Product_Code":"CD1026",
+        "Product_Name":"Tootsie Roll",
+        "Product_Price":"10.75",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"14g"    
+    },
+    {
+        "Product_Code":"CD1027",
+        "Product_Name":"Tootsie Roll Big Bar",
+        "Product_Price":"51.50",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"63.8g"    
+    },
+    {
+        "Product_Code":"CD1028",
+        "Product_Name":"Toblerone Bitter Sweet",
+        "Product_Price":"119.50",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"100g"    
+    },
+    {
+        "Product_Code":"CD1029",
+        "Product_Name":"Cadbury Chocolate Roast Almond",
+        "Product_Price":"50.50",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"65g"    
+    },
+    {
+        "Product_Code":"CD1030",
+        "Product_Name":"M&M's Chocolate Milk",
+        "Product_Price":"139.50",
+	"Stock":"100",
+        "Product_Type":"Chocolates",
+        "Product_Details":"200g"    
+    },
+    {
+        "Product_Code":"CD1031",
+        "Product_Name":"Tesco Cranberry Juice Drink",
+        "Product_Price":"118",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"1L"
+    },
+    {
+        "Product_Code":"CD1032",
+        "Product_Name":"Alaska Choco Chocolate Milk Drink",
+        "Product_Price":"20",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"185ML"
+    },
+    {
+        "Product_Code":"CD1033",
+        "Product_Name":"Summit Natural Drinking Water",
+        "Product_Price":"19",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"1L"
+    },
+    {
+        "Product_Code":"CD1034",
+        "Product_Name":"Summit Natural Drinking Water",
+        "Product_Price":"11",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"500ML"    
+    },
+    {
+        "Product_Code":"CD1035",
+        "Product_Name":"Smart C Juice Drink Orange Crush",
+        "Product_Price":"29",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"500ML"  
+    },
+	{
+        "Product_Code":"CD1036",
+        "Product_Name":"Smart C Juice Drink Pomelo Grapefruit",
+        "Product_Price":"29",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"500ML"
+    },
+    {
+        "Product_Code":"CD1037",
+        "Product_Name":"Smart C Juice Drink Calamansi Splash",
+        "Product_Price":"29",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"500ML"    
+    },
+	{
+        "Product_Code":"CD1038",
+        "Product_Name":"Big 250 Drink Mango",
+        "Product_Price":"10",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"250ML"
+    },
+    {
+        "Product_Code":"CD1039",
+        "Product_Name":"Big 250 Drink Apple",
+        "Product_Price":"9",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"250ML"    
+    },
+	{
+        "Product_Code":"CD1040",
+        "Product_Name":"Big 250 Drink Orange",
+        "Product_Price":"9",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"250ML"
+    },
+    {
+        "Product_Code":"CD1041",
+        "Product_Name":"Bear Brand Sterelized Milk",
+        "Product_Price":"84.50",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"1L"
+    },
+	{
+        "Product_Code":"CD1042",
+        "Product_Name":"Bear Brand Sterelized Gingko",
+        "Product_Price":"27.50",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"200ML"
+    },
+	{
+        "Product_Code":"CD1043",
+        "Product_Name":"Cowhead Milk",
+        "Product_Price":"80.00",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"1L"
+    },
+	{
+        "Product_Code":"CD1044",
+        "Product_Name":"Nestle Non Fat Milk",
+        "Product_Price":"94.50",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"1L"
+    },
+	{
+        "Product_Code":"CD1045",
+        "Product_Name":"Magnolia Low Fat Milk",
+        "Product_Price":"91.50",
+	"Stock":"100",
+        "Product_Type":"Drinks",
+        "Product_Details":"1L"
+    },
