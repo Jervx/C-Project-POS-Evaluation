@@ -33,9 +33,7 @@ But if you want to know how to do this app, please read the *Last Part of this D
 ###### Notes
 * Pos Cannot Run without the configuration file "config.txt"
 ```
- This is because we created a program that is dynamic & will always
- based its data on the files that is manipulated before rather than
- using a variable that can be lost its data after closing the program
+This is because we created a program that is dynamic & will always based its data on the files that is manipulated before rather than using a variable that can be lost its data after closing the program
  ```
  
  
