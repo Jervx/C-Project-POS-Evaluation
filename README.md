@@ -1,8 +1,6 @@
-#### Point Of Sale Built on C
-
+#### Point Of Sale Built using C Programming Language (Command Line Program)
 I did'nt include the C source file because some will just copy the code & claim it as theirs.
 
-##### 
 
 ##### Features
 * Have its own Configuration file *
@@ -40,4 +38,17 @@ I did'nt include the C source file because some will just copy the code & claim 
  based its data on the files that is manipulated before rather than
  using a variable that can be lost its data after closing the program
  ```
+ 
+ 
+##### Do you want to know how i created this program?
+If this is also your project The only thing i can do is explain how i created this program rather than sending the code.
+*Requirements in order to understand how i created
+*Pointer 
+*Pointer Arrays
+*Address 
+*Loops 
+*String Function 
+*Character Fcuntion
+*File handling
+*Basic Logical Thinking
 
