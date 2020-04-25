@@ -1,26 +1,24 @@
 #### Point Of Sale Built using C Programming Language (Command Line Program)
 I did'nt include the C source file because some will just copy the code & claim it as theirs.
 
-
 ##### Features
-* Have its own Configuration file *
-* JSON Database for Accounts *
-* JSON Database for Products *
-* JSON Database for Sale History *
-* Add New Products(Append new Data in Products.json) *
-* Edit Existing Products(Alter Data in Products.json) *
-* Save Copy of Transaction Receipts no. & info(Append new Record in Reports.json) *
-* Receipt Directory(Every transaction saves here are the complete copy of receipt)*
-* Can Change Tax & Discount value *
-* Can Change 
-* Can Change Store Name *
-* Can Change Receipt Message *
-* Can Change Theme *
-..*Light
-..*Light Gray
-..*Gray Light
-..*Dark Gray
-..*Dark
+*Have its own Configuration file*
+*JSON Database for Accounts*
+*JSON Database for Products*
+*JSON Database for Sale History*
+*Add New Products(Append new Data in Products.json)*
+*Edit Existing Products(Alter Data in Products.json)*
+*Save Copy of Transaction Receipts no. & info(Append new Record in Reports.json)*
+*Receipt Directory(Every transaction saves here are the complete copy of receipt)*
+*Can Change Tax & Discount value*
+*Can Change Store Name *
+*Can Change Receipt Message *
+*Can Change Theme*
+ * Light
+ * Light Gray
+ * Gray Light
+ * Dark Gray
+ * Dark
 
 
 ###### Flaw Of This Application
@@ -41,7 +39,9 @@ I did'nt include the C source file because some will just copy the code & claim 
  
  
 ##### Do you want to know how i created this program?
+``
 If this is also your project The only thing i can do is explain how i created this program rather than sending the code.
+``
 *Requirements in order to understand how i created
 *Pointer 
 *Pointer Arrays
