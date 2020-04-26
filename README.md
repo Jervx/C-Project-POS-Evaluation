@@ -40,7 +40,7 @@ This is because we created a program that is dynamic & will always based its dat
 ``
 If this is also your project The only thing i can do is explain how i created this program rather than sending the code.
 ``
-* Requirements in order to understand how i created
+* Requirements in order to understand how i created *
 * Pointer 
 * Pointer Arrays
 * Address 
@@ -49,4 +49,5 @@ If this is also your project The only thing i can do is explain how i created th
 * Character Fcuntion
 * File handling
 * Basic Logical Thinking
+* Memmory Management
 
