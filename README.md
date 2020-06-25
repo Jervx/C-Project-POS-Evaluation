@@ -20,6 +20,12 @@ I didn't include the C source file because some will just copy the code & claim 
  * Dark Gray
  * Dark
 
+##### Student
+* Abrenica
+* Andrei Castro
+* Jerbee Paragas
+* Rojan Yepes
+* Jason Santos
 
 ###### Flaw Of This Application
 * The editing Tax, Adding new Products, Editing new Products can be accessed by cashier
@@ -36,7 +42,7 @@ This is because we created a program that is dynamic & will always based its dat
 
  
  
-##### Do you want to know how i created this program?
+##### Do you want to know how this app created?
 ``
 If this is also your project The only thing i can do is explain how i created this program rather than sending the code.
 ``
