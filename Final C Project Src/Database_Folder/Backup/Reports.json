@@ -1,0 +1,26 @@
+	{
+		"Transaction_No":"RCPT1005",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"549.00",
+		"Discount":"0.00",
+		"VAT":"65.88",
+		"Total_Price":"614.88",
+		"Received":"650.00",
+		"No_Items":"6"
+	},
+
+	{
+		"Transaction_No":"RCPT1006",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"1345.00",
+		"Discount":"0.00",
+		"VAT":"161.40",
+		"Total_Price":"1506.40",
+		"Received":"1520.00",
+		"No_Items":"15"
+	},
+

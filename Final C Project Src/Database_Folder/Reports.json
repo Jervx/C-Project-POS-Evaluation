@@ -1,0 +1,130 @@
+	{
+		"Transaction_No":"RCPT1001",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"1577.00",
+		"Discount":"78.85",
+		"VAT":"0.00",
+		"Total_Price":"1498.15",
+		"Received":"1500.00",
+		"No_Items":"28"
+	},
+
+	{
+		"Transaction_No":"RCPT1002",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"457.50",
+		"Discount":"0.00",
+		"VAT":"54.90",
+		"Total_Price":"512.40",
+		"Received":"550.00",
+		"No_Items":"5"
+	},
+
+	{
+		"Transaction_No":"RCPT1003",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"250.00",
+		"Discount":"0.00",
+		"VAT":"30.00",
+		"Total_Price":"280.00",
+		"Received":"300.00",
+		"No_Items":"10"
+	},
+
+	{
+		"Transaction_No":"RCPT1001",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"703.00",
+		"Discount":"35.15",
+		"VAT":"0.00",
+		"Total_Price":"667.85",
+		"Received":"1000.00",
+		"No_Items":"27"
+	},
+
+	{
+		"Transaction_No":"RCPT1002",
+		"Employee_ID":"empc00002",
+		"Employee_Name":"Andrei Castro",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"500.00",
+		"Discount":"0.00",
+		"VAT":"60.00",
+		"Total_Price":"560.00",
+		"Received":"1000.00",
+		"No_Items":"20"
+	},
+
+	{
+		"Transaction_No":"RCPT1003",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/15/2020",
+		"Sub_Total":"432.00",
+		"Discount":"21.60",
+		"VAT":"0.00",
+		"Total_Price":"410.40",
+		"Received":"500.00",
+		"No_Items":"18"
+	},
+
+	{
+		"Transaction_No":"RCPT1004",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/16/2020",
+		"Sub_Total":"500.00",
+		"Discount":"0.00",
+		"VAT":"60.00",
+		"Total_Price":"560.00",
+		"Received":"560.00",
+		"No_Items":"20"
+	},
+
+	{
+		"Transaction_No":"RCPT1005",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/16/2020",
+		"Sub_Total":"525.00",
+		"Discount":"26.25",
+		"VAT":"0.00",
+		"Total_Price":"498.75",
+		"Received":"500.00",
+		"No_Items":"21"
+	},
+
+	{
+		"Transaction_No":"RCPT1006",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/16/2020",
+		"Sub_Total":"304.00",
+		"Discount":"15.20",
+		"VAT":"0.00",
+		"Total_Price":"288.80",
+		"Received":"300.00",
+		"No_Items":"10"
+	},
+
+	{
+		"Transaction_No":"RCPT1007",
+		"Employee_ID":"empc00001",
+		"Employee_Name":"Jerbee Paragas",
+		"Transaction_Date":"3/17/2020",
+		"Sub_Total":"75.00",
+		"Discount":"0.00",
+		"VAT":"9.00",
+		"Total_Price":"84.00",
+		"Received":"100.00",
+		"No_Items":"3"
+	},
+

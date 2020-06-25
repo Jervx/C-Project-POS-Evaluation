@@ -1,0 +1,16 @@
+/** This Area Is Fore Databases **/
+"Account_Path":"Database_Folder/Account.json"
+"Products_Path":"Database_Folder/Products.json"
+"Reports_Path":"Database_Folder/Reports.json"
+"Receipt_Path":"Database_Folder/Receipts"
+
+/** POS Settings **/
+"TAX":"0.12"
+"PWD_Senior_Discount":"0.05"
+"transaction_no":"1006"
+"store_address":"1st Esperanza St., Hilltop Mansion Heights Lagro Subdivision, Quezon City"
+"store_name":"Hey Store Wala"
+"Store_Contact":"780-294-1233"
+"receipt_msg":"Have A Great Day!"
+"theme":"color f8"
+"currency":"php"

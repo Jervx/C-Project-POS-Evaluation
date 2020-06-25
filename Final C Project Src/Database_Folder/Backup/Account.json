@@ -1,0 +1,37 @@
+[
+    {
+        "Account_ID":"empc00001",
+        "Account_Key":"1234",
+        "Account_Name":"Jerbee Paragas",
+        "Account_Type":"Cashier",
+        "Account_Status":"Active"
+    },
+    {
+        "Account_ID":"empc00002",
+        "Account_Key":"12345",
+        "Account_Name":"Andrei Castro",
+        "Account_Type":"Admin",
+        "Account_Status":"Active"
+    },
+    {
+        "Account_ID":"empc00003",
+        "Account_Key":"123456",
+        "Account_Name":"Rojan Yepes",
+        "Account_Type":"Admin",
+        "Account_Status":"InActive"
+    },
+    {
+        "Account_ID":"empc00004",
+        "Account_Key":"1234567",
+        "Account_Name":"Jason Santos",
+        "Account_Type":"Cashier",
+        "Account_Status":"Active"
+    },
+    {
+        "Account_ID":"empc00005",
+        "Account_Key":"12345678",
+        "Account_Name":"IE Abrenica",
+        "Account_Type":"Admin",
+        "Account_Status":"InActive" 
+    }
+]   
